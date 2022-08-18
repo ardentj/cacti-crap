@@ -1,6 +1,5 @@
 #!/bin/bash
 
-# Poll botmonoci for red and disabled values
 
 printf "" > botmon.log
 
